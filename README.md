@@ -1,6 +1,6 @@
 ## Portafolio de proyectos
 
-¡Hola! Soy **María Robles**. Soy estudiante de Economía. Estoy interesada en la Ciencia de Datos. Aquí encontrarás información sobre mi trayectoria. 
+¡Hola! Soy **María Robles**, estudiante de Economía. Estoy interesada en la Ciencia de Datos. Aquí encontrarás información sobre mi trayectoria. 
 ___
 ### El proyecto cuenta con las secciones de: 
 
